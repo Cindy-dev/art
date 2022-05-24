@@ -5,6 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="asset\image\collection.png" width="350" title="Collection screen">
+  <img src="asset\image\exhibit.png" width="350" alt="drawer">                                                    
+  <img src="asset\image\login.png" width="350" alt="login"> 
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
